@@ -18,7 +18,7 @@ This application allows you to upload a PDF document and ask questions based on 
 
 To see a demonstration of the application in action, where a cover letter is uploaded and questions are answered based on the uploaded document, watch the video below:
 
-[![App Demo]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://github.com/user-attachments/assets/956eb6ba-9130-4f0b-8891-609ba8c55f30))]([https://www.youtube.com/watch?v=VIDEO_ID](https://github.com/user-attachments/assets/956eb6ba-9130-4f0b-8891-609ba8c55f30))
+https://github.com/user-attachments/assets/956eb6ba-9130-4f0b-8891-609ba8c55f30
 
 In this video, you will see how the app allows users to:
 - Upload a cover letter PDF
