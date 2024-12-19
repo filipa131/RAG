@@ -18,4 +18,5 @@ This application allows you to upload a PDF document and ask questions based on 
 
 Demonstration of the application, where a cover letter is uploaded and questions are answered based on the uploaded document:
 
+![RAG_app](https://github.com/user-attachments/assets/5e96b8ab-62d9-4a26-80e7-b2f9c8a4576c)
 
